@@ -1,2 +1,2 @@
 # coursera-angularJS
-repo for coursera angularJS-SAP
+repo for coursera angularJS-SPA
